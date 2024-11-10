@@ -6,7 +6,7 @@ summary = "My journey to set up a media server my whole family could use, using 
 description = "My journey to set up a media server my whole family could use."
 toc = true
 readTime = true
-autonumber = true
+autonumber = false
 math = false
 tags = ["jellyfin", "caddy", "nextcloud", "syncthing"]
 showTags = true
@@ -45,7 +45,8 @@ For photos & videos, the basic idea is:
 
 ## The Details
 I'm planning a series of blog posts describing how I set this all up, and will link to each article as I have it completed:
-* Setting Up Jellyfin and Caddy
+* [Setting Up Jellyfin](/posts/setting-up-jellyfin)
+* Setting Up Caddy
 * Setting Up Syncthing 
 * Setting Up Nextcloud for Media Uploads
 * Auto-Sorting Photos with Phockup

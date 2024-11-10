@@ -1,0 +1,71 @@
+baseURL = 'https://blog.zoromski.com/'
+languageCode = 'en-us'
+title = "Brian Zoromski's Blog"
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A blog about technical issues and whatever else is on my mind."
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'eink'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Intro'
+homeIntroContent = """
+👋 I have been working in Web development and software engineering for over 30 years.  My day job is software engineering management but I still love to dabble in various tech outside of my job.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = 'Jan 2, 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/brian-zoromski-947b05166/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/bzoromski"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/posts/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

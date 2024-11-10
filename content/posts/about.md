@@ -2,7 +2,7 @@
 date: '2024-11-10T09:19:26-06:00'
 draft: false
 title: 'About This Blog'
-summary: "I write about the things rattling around in my head, or things that might possibly help someone out there."
+summary: "A brief introduction."
 description: "A brief introduction."
 toc: false
 readTime: true

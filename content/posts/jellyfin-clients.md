@@ -1,7 +1,7 @@
 +++
 title = 'Jellyfin Clients'
 date = 2024-11-10T22:24:48-06:00
-draft = true
+draft = false
 summary = "The client software to use with Jellyfin."
 description = "The client software to use with Jellyfin."
 toc = true

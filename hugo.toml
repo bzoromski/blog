@@ -19,6 +19,8 @@ hideHeader = false
 homeIntroTitle = 'Intro'
 homeIntroContent = """
 👋 I have been working in Web development and software engineering for over 30 years.  My day job is software engineering management but I still love to dabble in various tech outside of my job.
+
+I enjoyed putting together a series of blog posts called  [My Media Server Project](/posts/my-media-server-project/), that runs down how I created a setup using Jellyfin, Caddy, Nextcloud, Syncthing and some scripting to make my family's media collection easily accessible to them.
 """
 
 # Collection to display on home

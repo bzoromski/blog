@@ -47,6 +47,7 @@ For photos & videos, the basic idea is:
 I'm planning a series of blog posts describing how I set this all up, and will link to each article as I have it completed:
 * [Setting Up Jellyfin](/posts/setting-up-jellyfin/)
 * [Setting Up Caddy](/posts/setting-up-caddy/)
+* [Jellyfin Clients](/posts/jellyfin-clients/)
 * [Setting Up Nextcloud for Media Uploads](/posts/setting-up-nextcloud/)
 * [Auto-Sorting Photos with Phockup](/posts/auto-sorting-media-into-folders/)
-* Setting Up Syncthing 
+* [Setting Up Syncthing](/posts/setting-up-syncthing/)

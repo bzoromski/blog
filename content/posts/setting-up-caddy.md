@@ -8,10 +8,11 @@ toc = true
 readTime = true
 autonumber = false
 math = false
-tags = ["jellyfin", "caddy"]
+tags = ["jellyfin", "caddy", "my-media-server-project"]
 showTags = true
 hideBackToTop = false
 +++
+## The Goal
 As part of [My Media Server Project](/posts/my-media-server-project/) I wanted to make logging in and using the server as easy as possible for my family.  So I didn't want anyone to have to worry about what port number the server is running on or trying to remember a complicated URL.  That meant setting up a reverse proxy service, a domain name, and some port forwarding on my home router.
 
 The goal was to create a URL like `https://jellyfin.zoromski.com` and have my family members only have to remember that, and no port numbers.

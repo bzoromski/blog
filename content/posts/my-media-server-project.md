@@ -8,7 +8,7 @@ toc = true
 readTime = true
 autonumber = false
 math = false
-tags = ["jellyfin", "caddy", "nextcloud", "syncthing"]
+tags = ["jellyfin", "caddy", "nextcloud", "syncthing", "my-media-server-project"]
 showTags = true
 hideBackToTop = false
 +++
@@ -45,8 +45,8 @@ For photos & videos, the basic idea is:
 
 ## The Details
 I'm planning a series of blog posts describing how I set this all up, and will link to each article as I have it completed:
-* [Setting Up Jellyfin](/posts/setting-up-jellyfin)
+* [Setting Up Jellyfin](/posts/setting-up-jellyfin/)
 * [Setting Up Caddy](/posts/setting-up-caddy/)
-* Setting Up Syncthing 
-* Setting Up Nextcloud for Media Uploads
+* [Setting Up Nextcloud for Media Uploads](/posts/setting-up-nextcloud/)
 * Auto-Sorting Photos with Phockup
+* Setting Up Syncthing 

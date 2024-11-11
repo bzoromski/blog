@@ -8,7 +8,7 @@ toc = true
 readTime = true
 autonumber = false
 math = false
-tags = ["jellyfin","jellyman","bash-scripting"]
+tags = ["jellyfin","jellyman","bash-scripting", "my-media-server-project"]
 showTags = true
 hideBackToTop = false
 +++

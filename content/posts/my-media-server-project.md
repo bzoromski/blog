@@ -48,5 +48,5 @@ I'm planning a series of blog posts describing how I set this all up, and will l
 * [Setting Up Jellyfin](/posts/setting-up-jellyfin/)
 * [Setting Up Caddy](/posts/setting-up-caddy/)
 * [Setting Up Nextcloud for Media Uploads](/posts/setting-up-nextcloud/)
-* Auto-Sorting Photos with Phockup
+* [Auto-Sorting Photos with Phockup](/posts/auto-sorting-media-into-folders/)
 * Setting Up Syncthing 
